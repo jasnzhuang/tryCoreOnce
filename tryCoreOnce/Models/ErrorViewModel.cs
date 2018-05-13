@@ -1,5 +1,3 @@
-using System;
-
 namespace tryCoreOnce.Models
 {
     public class ErrorViewModel
